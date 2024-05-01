@@ -5,10 +5,10 @@
         gender: "male",
         bloodGroup: "O+",
     };
-    const fullstackDeveloper = {
-        skills: ["React Native", "JS", "TS", "C#"],
-        designation1: "FrontEnd Developer",
-        designation2: "BackEnd Developer",
-    };
+    //   const fullstackDeveloper: FullStackDeveloper = {
+    //     skills: ["React Native", "JS", "TS", "C#"],
+    //     designation1: "FrontEnd Developer",
+    //     designation2: "BackEnd Developer",
+    //   };
     //
 }

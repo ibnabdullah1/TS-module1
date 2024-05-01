@@ -27,11 +27,11 @@
   };
   type FullStackDeveloper = FrontEndDeveloper & BackEndDeveloper;
 
-  const fullstackDeveloper: FullStackDeveloper = {
-    skills: ["React Native", "JS", "TS", "C#"],
-    designation1: "FrontEnd Developer",
-    designation2: "BackEnd Developer",
-  };
+  //   const fullstackDeveloper: FullStackDeveloper = {
+  //     skills: ["React Native", "JS", "TS", "C#"],
+  //     designation1: "FrontEnd Developer",
+  //     designation2: "BackEnd Developer",
+  //   };
 
   //
 }
