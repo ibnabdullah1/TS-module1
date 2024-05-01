@@ -2,7 +2,7 @@
 
 const user: {
   firstName: string;
-  middleName: string;
+  middleName?: string; // optional type
   lastName: string;
 } = {
   firstName: "John",
