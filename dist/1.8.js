@@ -13,5 +13,4 @@
     const { contactNo, name: { lastName: lastN }, } = user;
     const myFriends = ["chandler", "joey", "ross", "rachel"];
     const [, , bestFriend] = myFriends;
-    // const [, , bestFriend] = myFriends;
 }
